@@ -1,17 +1,17 @@
 # Computer Architecture Helper
 
-Este programa lo realicé en 2020 con C++ para resolver ejercicios de la materia Arquitectura de Computadoras y poder comprobar que mis resultados sean los correctos.
+I made this program in 2020 with C++ to solve exercises of the Computer Architecture subject and to be able to verify that my results are correct.
 
-### El programa resuelve paso por paso:
+### The program solves step by step:
 
-1. Pasajes de Decimal a Binario.
-2. Pasaje de ENteros de Base "n" a Base "m".
-3. Pasaje de Decimal a IEEE 754 presición simple
-4. Sumas y Restas en BCD
+1. Conversion from decimal to binary.
+2. Conversion of integers from base "n" to base "m".
+3. Conversion from Decimal to IEEE-754 Single-Precision Binary
+4. Addition and Subtraction in BCD
 
-### Modo de Uso:
+### Usage Guide:
 
-Interfaz de Consola, abra el ejecutable "ComputerArchitectureHelper.exe" y escriba el número de la opción que quiere. Posteriormente el programa lo guiará para que ingrese los números requeridos y le mostrara el resultado y la resolución paso por paso.
+Open the executable "ComputerArchitectureHelper.exe" and type the number of the option you want. Then the program will guide you to enter the required numbers and show you the result and the resolution step by step.
 
 ### Screenshots:
 
